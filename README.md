@@ -1,1 +1,1 @@
-
+This study aims to find signs that show if someone might struggle to make loan payments. These signs could help decide whether to reject a loan application, offer a smaller loan amount, or give loans to risky applicants at higher interest rates. The goal is to make sure deserving borrowers aren't turned down while identifying those who might have trouble repaying their loans using Exploratory Data Analysis.
